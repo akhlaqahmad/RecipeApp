@@ -1,0 +1,36 @@
+PODS:
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SWXMLHash (5.0.1)
+  - TPKeyboardAvoidingSwift (3.2)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SDWebImage (~> 5.0)
+  - SWXMLHash
+  - TPKeyboardAvoidingSwift
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SWXMLHash
+    - TPKeyboardAvoidingSwift
+
+SPEC CHECKSUMS:
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SWXMLHash: 9cc0c2e4807926c74377724aa8722ee5707a0485
+  TPKeyboardAvoidingSwift: ce1a75e0bc3af6b485f8bfa1d0a8320cfc565851
+
+PODFILE CHECKSUM: 5060ac17e814268765db1e4a40b034430ae5f14c
+
+COCOAPODS: 1.9.0
